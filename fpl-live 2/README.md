@@ -1,0 +1,1 @@
+Next.js FPL live tracker. Run `npm install` then `npm run dev`.
